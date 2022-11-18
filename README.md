@@ -1,13 +1,17 @@
 # screen-shots
 
 ### This repo on serves the purpose of holding screen shots of my prior professional work. 
-![Screenshot 2022-11-17 at 9 07 01 AM](https://user-images.githubusercontent.com/33139203/202700017-1e32400c-e632-4251-a9f9-8d47b76fb3d3.png)
-![Screenshot 2022-11-17 at 9 09 23 AM](https://user-images.githubusercontent.com/33139203/202700092-8c62de74-f9b4-44d0-9870-ff330f634117.png)
-![Screenshot 2022-11-17 at 9 07 18 AM](https://user-images.githubusercontent.com/33139203/202700100-a1825df3-d1cd-47b4-8126-9042ec73bbf2.png)
-![Screenshot 2022-11-17 at 9 11 34 AM](https://user-images.githubusercontent.com/33139203/202700106-ad3dca39-5fbe-495e-bc1a-e11ed62aecab.png)
-![Screenshot 2022-11-17 at 9 06 54 AM](https://user-images.githubusercontent.com/33139203/202700128-a4fdb9a3-a66b-472f-9507-e67c9c7fd891.png)
-![Screenshot 2022-11-17 at 9 11 28 AM](https://user-images.githubusercontent.com/33139203/202700136-3f33e4be-526d-4c7e-af90-347f078bc7c5.png)
-![Screenshot 2022-11-17 at 9 07 05 AM](https://user-images.githubusercontent.com/33139203/202700141-58aaae10-244a-4852-b142-02d6c867b665.png)
-![Screenshot 2022-11-17 at 9 11 38 AM](https://user-images.githubusercontent.com/33139203/202700149-ef1434ce-2cdd-4d24-abd9-a76a0277c967.png)
-![Screenshot 2022-11-17 at 9 06 47 AM](https://user-images.githubusercontent.com/33139203/202700153-e2fa39ca-b2a8-48a6-ad58-513975840028.png)
-![Screenshot 2022-11-17 at 9 11 00 AM](https://user-images.githubusercontent.com/33139203/202700159-ff0c2bb6-71d1-42d1-91f8-c31fa4b6a55f.png)
+####PlumCoOwnershp
+![Screenshot 2022-11-17 at 9 06 54 AM](https://user-images.githubusercontent.com/33139203/202700305-a36cb091-d200-49d4-b17c-5a5ea39cb420.png)
+
+![Screenshot 2022-11-17 at 9 07 01 AM](https://user-images.githubusercontent.com/33139203/202700334-db32fccb-56b5-483a-8426-fa20369717a4.png)
+
+![Screenshot 2022-11-17 at 9 07 05 AM](https://user-images.githubusercontent.com/33139203/202700532-7d78d7d7-ec23-45cf-a117-c373148dab59.png)
+
+![Screenshot 2022-11-17 at 9 09 23 AM](https://user-images.githubusercontent.com/33139203/202700599-4e3bbbd8-965b-4aaf-bce1-4822c616fe32.png)
+
+![Screenshot 2022-11-17 at 9 07 18 AM](https://user-images.githubusercontent.com/33139203/202700601-7fa0b655-bfd6-4c0a-b93a-6d6bac043fdb.png)
+
+![Screenshot 2022-11-17 at 9 11 34 AM](https://user-images.githubusercontent.com/33139203/202700617-6c7dffbb-100d-4d58-b16d-f5e7b12cb113.png)
+
+![Screenshot 2022-11-17 at 9 11 34 AM](https://user-images.githubusercontent.com/33139203/202700698-fa2af8b1-d878-483c-9538-ce762433ee18.png)
