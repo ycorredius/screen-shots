@@ -1,7 +1,7 @@
 # screen-shots
 
 ### This repo on serves the purpose of holding screen shots of my prior professional work. 
-####PlumCoOwnershp
+#### PlumCoOwnershp
 ![Screenshot 2022-11-17 at 9 06 54 AM](https://user-images.githubusercontent.com/33139203/202756530-b9ad26cd-cb89-4f7e-93a8-70f35e350031.png)
 
 ![Screenshot 2022-11-17 at 9 07 01 AM](https://user-images.githubusercontent.com/33139203/202756566-6bdcf90d-027c-4f59-a2f8-cabec10c7a90.png)
